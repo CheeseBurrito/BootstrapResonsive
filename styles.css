@@ -1,3 +1,13 @@
-h1 {
-    color:darkblue
+.nav-link {
+    color: #15201f;
+    font-size: 20px;
 }
+p{
+    color: #15201f;
+    font-size: 30px;
+}
+.navbar{
+    background-color: #c3be77;
+}
+
+ /*Color Pallete: #f0f6f7, #001233, #c0fdff, #d8bbff, #ecbcfd*/
