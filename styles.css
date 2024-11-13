@@ -10,4 +10,12 @@ p{
     background-color: #eeeeee;
 }
 
+.story{
+      border-right: solid 5px aliceblue; 
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-right-width: 5px;
+  border-bottom-width: solid 5px transparent; 
+  border-left: solid 8px;
+}
  /*Color Pallete: #f0f6f7, #001233, #c0fdff, #d8bbff, #ecbcfd*/
