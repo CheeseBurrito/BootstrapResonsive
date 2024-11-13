@@ -10,6 +10,11 @@ p{
     background-color: #eeeeee;
 }
 
+h1 {
+    margin:2rem;
+    font-size: large;
+}
+
 .story{
     background-color: aliceblue;
     border-right: solid 5px black; 
