@@ -11,11 +11,16 @@ p{
 }
 
 .story{
-      border-right: solid 5px aliceblue; 
-  border-top-right-radius: 10px;
-  border-bottom-right-radius: 10px;
-  border-right-width: 5px;
-  border-bottom-width: solid 5px transparent; 
-  border-left: solid 8px;
+    background-color: aliceblue;
+    border-right: solid 5px black; 
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-right-width: 8px;
+    border-bottom-width: solid 5px transparent;
+    border-left: solid 8px;
+    margin: 2%;
+    padding: 4%;
 }
  /*Color Pallete: #f0f6f7, #001233, #c0fdff, #d8bbff, #ecbcfd*/
